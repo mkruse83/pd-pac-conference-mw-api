@@ -1,0 +1,1 @@
+aws apigateway put-rest-api --rest-api-id aij4t1he5a --mode overwrite --fail-on-warnings --body 'file://c:/pd/pac/git/pd-pac-conference-mw-api/api-conf.json'
